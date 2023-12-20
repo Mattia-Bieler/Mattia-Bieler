@@ -6,16 +6,14 @@ __Excel | Python | R | SQL | Tableau__
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
 ## Autobiography
-__A Tapestry of Cultures: A Journey Through Life__
-
+### A Tapestry of Cultures: A Journey Through Life
 Born in the United Kingdom to an Italian mother and a German father, our family home is a delightful blend of diverse traditions and languages. This unique fusion has intricately woven the tapestry of my experiences, creating a rich narrative that evolves with each exploration, learning endeavor, and embrace of both German and Italian culture.
 
 Growing up amidst this multicultural mosaic, English, German, and Italian seamlessly intermingled in our conversations, crafting a harmonious symphony of words that mirrors my diverse heritage. This linguistic diversity serves as a poignant thread connecting me to my roots while simultaneously opening doors to a broader comprehension of the world around me.
 
 As I navigated the landscapes of my adolescence, I came to realise that being a product of Italian and German cultures in the UK was a unique tapestry that allowed me to effortlessly blend in while authentically standing out. The vibrant city of London, my current residence, with its cosmopolitan character, provides an ideal backdrop, fostering an environment where differences are celebrated.
 
-__From Hospitality and Social Science to Data Analytics: A Journey of Skills and Insights__
-
+### From Hospitality and Social Science to Data Analytics: A Journey of Skills and Insights
 Transitioning into the dynamic field of data analytics, I leverage a rich background in the hospitality industry and hold an undergraduate degree in International Relations and History from SOAS University of London. These experiences have equipped me with invaluable transferable skills, fostering a strong foundation for my venture into data analytics. My motivation stems from a fervor for discerning patterns, extracting insights, and crafting data-driven decisions; a passion that originated during my role in stock management at The Peppertree Thai Restaurant.
 
 Rather than merely tallying inventory and recording quantities of each product, I proactively embraced the opportunity to acquire new skills. Taking the initiative, I dedicated myself to learning and cultivating a sophisticated Excel spreadsheet. This comprehensive tool not only facilitated precise stock tracking but also provided a bird's-eye view of the entire inventory. Through this hands-on experience, I discovered the transformative power of data in enhancing operational efficiency and decision-making.
