@@ -3,10 +3,7 @@ __Business Analytics | Data Analytics | Data Visualisation__
 
 __Excel | Python | R | SQL | Tableau__
 
-[LinkedIn](www.linkedin.com/in/mattia-bieler)
-
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
-
 ## Autobiography
 ### A Tapestry of Cultures: A Journey Through Life
 Born in the United Kingdom to an Italian mother and a German father, our family home is a delightful blend of diverse traditions and languages. This unique fusion has intricately woven the tapestry of my experiences, creating a rich narrative that evolves with each exploration, learning endeavor, and embrace of both German and Italian culture.
@@ -28,4 +25,4 @@ I recently completed the London School of Economics and Political Science (LSE) 
 
 This fusion of hospitality, social science, and data analytics positions me as a versatile professional, ready to tackle challenges and uncover insights in the evolving landscape of data-driven decision-making.
 
-__Overview of the LSE Data Analytics Career Accelerator:__ https://github.com/Mattia-Bieler/LSE_Data_Analytics_Career_Accelerator.git
+[Overview of the LSE Data Analytics Career Accelerator](https://github.com/Mattia-Bieler/LSE_Data_Analytics_Career_Accelerator.git)
