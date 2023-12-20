@@ -5,8 +5,6 @@ __Excel | Python | R | SQL | Tableau__
 
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
-href="https://github.com/The-Ryan-Lin/lse_data_analytics_career_accelerator/tree/main">here<
-
 ## Autobiography
 __A Tapestry of Cultures: A Journey Through Life__
 
