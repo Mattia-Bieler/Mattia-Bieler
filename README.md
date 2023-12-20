@@ -30,4 +30,5 @@ This fusion of hospitality, social science, and data analytics positions me as a
 
 ## Technical Skills
 [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Project.git)
+
 [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Project.git)
