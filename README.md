@@ -31,6 +31,6 @@ This fusion of hospitality, social science, and data analytics positions me as a
 
 [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)
 
-[Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Project.git)
+[Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)
 
-[Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Project.git)
+[Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)
