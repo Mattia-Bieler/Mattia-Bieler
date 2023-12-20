@@ -3,6 +3,8 @@ __Business Analytics | Data Analytics | Data Visualisation__
 
 __Excel | Python | R | SQL | Tableau__
 
+__LinkedIn:__ www.linkedin.com/in/mattia-bieler
+
 ## Autobiography
 __A Tapestry of Cultures: A Journey Through Life__
 
