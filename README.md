@@ -20,9 +20,9 @@ Rather than merely tallying inventory and recording quantities of each product, 
 
 In the realm of hospitality, I honed my interpersonal and communication skills, ensuring seamless interactions with diverse individuals. This experience has ingrained in me a deep understanding of customer needs; an asset that seamlessly translates into the realm of data analytics where customer insights are paramount.
 
-My academic foundation in International Relations and History, in which I attained a 2:1 (mark: 68), has cultivated critical thinking and research skills, enabling me to approach data with a nuanced perspective. The ability to analyse complex geopolitical scenarios and historical trends has equipped me with a unique analytical mindset that I now eagerly apply to real-world datasets.
+My academic foundation in International Relations and History, in which I attained a __2:1 (mark: 68)__, has cultivated critical thinking and research skills, enabling me to approach data with a nuanced perspective. The ability to analyse complex geopolitical scenarios and historical trends has equipped me with a unique analytical mindset that I now eagerly apply to real-world datasets.
 
-I recently completed the London School of Economics and Political Science (LSE) Data Analytics Career Accelerator with a distinction (81%). This immersive program equipped me with hands-on experience in various tools and languages, including Python, R, SQL, Tableau, and Office 365. Armed with this proficiency, I am poised to apply my multidisciplinary background, analytical mindset, and technical skills to contribute meaningfully to data-driven projects.
+I recently completed the London School of Economics and Political Science (LSE) Data Analytics Career Accelerator with a __distinction (81%)__. This immersive program equipped me with hands-on experience in various tools and languages, including __Excel, Python, R, SQL, and Tableau__. Armed with this proficiency, I am poised to apply my multidisciplinary background, analytical mindset, and technical skills to contribute meaningfully to data-driven projects.
 
 This fusion of hospitality, social science, and data analytics positions me as a versatile professional, ready to tackle challenges and uncover insights in the evolving landscape of data-driven decision-making.
 
