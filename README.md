@@ -3,6 +3,8 @@ __Business Analytics | Data Analytics | Data Visualisation__
 
 __Excel | Python | R | SQL | Tableau__
 
+[LinkedIn]{www.linkedin.com/in/mattia-bieler}
+
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
 ## Autobiography
