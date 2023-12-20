@@ -5,6 +5,7 @@ __Excel | Python | R | SQL | Tableau__
 
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
+__Technical Skills:__ [Supermarket Advertisement and Sales Project](https://github.com/Mattia-Bieler/Supermarket_Advertisement_and_Sales_Project.git) | [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git) | [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git) | [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)
 ## Autobiography
 ### A Tapestry of Cultures: A Journey Through Life
 Born in the United Kingdom to an Italian mother and a German father, our family home is a delightful blend of diverse traditions and languages. This unique fusion has intricately woven the tapestry of my experiences, creating a rich narrative that evolves with each exploration, learning endeavor, and embrace of both German and Italian culture.
