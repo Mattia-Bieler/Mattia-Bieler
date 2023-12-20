@@ -32,3 +32,4 @@ This fusion of hospitality, social science, and data analytics positions me as a
 [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Project.git)
 
 [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Project.git)
+![2Market Dashboard](https://github.com/Mattia-Bieler/Mattia-Bieler/assets/132078605/5bab5011-e342-4a3b-a911-06a0e13da037) 
