@@ -27,6 +27,8 @@ I recently completed the London School of Economics and Political Science (LSE) 
 This fusion of hospitality, social science, and data analytics positions me as a versatile professional, ready to tackle challenges and uncover insights in the evolving landscape of data-driven decision-making.
 
 ## Technical Skills
+[Supermarket Advertisement and Sales Project](https://github.com/Mattia-Bieler/Supermarket_Advertisement_and_Sales_Project.git)
+
 [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Project.git)
 
 [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Project.git)
