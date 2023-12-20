@@ -5,7 +5,8 @@ __Excel | Python | R | SQL | Tableau__
 
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
-__Technical Skills:__ 1) [Supermarket Advertisement and Sales Project](https://github.com/Mattia-Bieler/Supermarket_Advertisement_and_Sales_Project.git)
+__Technical Skills:__ 
+1) [Supermarket Advertisement and Sales Project](https://github.com/Mattia-Bieler/Supermarket_Advertisement_and_Sales_Project.git)
 2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)
 3) [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)
 4) [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)
