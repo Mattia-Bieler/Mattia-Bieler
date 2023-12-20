@@ -14,7 +14,6 @@ Growing up amidst this multicultural mosaic, English, German, and Italian seamle
 
 As I navigated the landscapes of my adolescence, I came to realise that being a product of Italian and German cultures in the UK was a unique tapestry that allowed me to effortlessly blend in while authentically standing out. The vibrant city of London, my current residence, with its cosmopolitan character, provides an ideal backdrop, fostering an environment where differences are celebrated.
 
-
 __From Hospitality and Social Science to Data Analytics: A Journey of Skills and Insights__
 
 Transitioning into the dynamic field of data analytics, I leverage a rich background in the hospitality industry and hold an undergraduate degree in International Relations and History from SOAS University of London. These experiences have equipped me with invaluable transferable skills, fostering a strong foundation for my venture into data analytics. My motivation stems from a fervor for discerning patterns, extracting insights, and crafting data-driven decisions; a passion that originated during my role in stock management at The Peppertree Thai Restaurant.
