@@ -30,12 +30,3 @@ My academic foundation in International Relations and History, in which I attain
 I recently completed the London School of Economics and Political Science (LSE) [Data Analytics Career Accelerator](https://github.com/Mattia-Bieler/LSE_Data_Analytics_Career_Accelerator.git) with a __distinction (81%)__. This immersive program equipped me with hands-on experience in various tools and languages, including Excel, Python, R, SQL, and Tableau. Armed with this proficiency, I am poised to apply my multidisciplinary background, analytical mindset, and technical skills to contribute meaningfully to data-driven projects.
 
 This fusion of hospitality, social science, and data analytics positions me as a versatile professional, ready to tackle challenges and uncover insights in the evolving landscape of data-driven decision-making.
-
-## Technical Skills
-[Supermarket Advertisement and Sales Project](https://github.com/Mattia-Bieler/Supermarket_Advertisement_and_Sales_Project.git)
-
-[Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)
-
-[Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)
-
-[Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)
