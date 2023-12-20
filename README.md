@@ -5,8 +5,6 @@ __Excel | Python | R | SQL | Tableau__
 
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
-[1]: http://google.com/ "Google"
-
 ## Autobiography
 __A Tapestry of Cultures: A Journey Through Life__
 
