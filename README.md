@@ -7,10 +7,10 @@ __BA (Hons) International Relations and History (2:1, Mark: 68) | LSE Data Analy
 
 __I proficiently manage intricate datasets and interpret insights within societal contexts. This skill enables me to deliver actionable, data-driven recommendations that consider broader business implications.__
 
-__LinkedIn:__ www.linkedin.com/in/mattia-bieler
+__LinkedIn: www.linkedin.com/in/mattia-bieler__
 
 ## Technical Skills
-1) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git)
+1) __[Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git)__
 2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)
 3) [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)
 4) [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)
