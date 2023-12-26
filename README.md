@@ -11,10 +11,10 @@ __LinkedIn: www.linkedin.com/in/mattia-bieler__
 
 ## Technical Skills
 1) __[Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git)__
-2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)
-3) [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)
-4) [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)
-5) [Feedback Acknowledgement](https://github.com/Mattia-Bieler/Feedback_Acknowledgement.git)
+2) __[Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)__
+3) __[Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)__
+4) __[Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)__
+5) __[Feedback Acknowledgement](https://github.com/Mattia-Bieler/Feedback_Acknowledgement.git)__
    
 ## Autobiography
 ### A Tapestry of Cultures: A Journey Through Life
@@ -33,6 +33,6 @@ In the realm of hospitality, I honed my interpersonal and communication skills, 
 
 My academic foundation in International Relations and History, in which I attained a 2:1 (mark: 68), has cultivated critical thinking and research skills, enabling me to approach data with a nuanced perspective. The ability to analyse complex geopolitical scenarios and historical trends has equipped me with a unique analytical mindset that I now eagerly apply to real-world datasets.
 
-I recently completed the London School of Economics and Political Science (LSE) [Data Analytics Career Accelerator](https://github.com/Mattia-Bieler/LSE_Data_Analytics_Career_Accelerator.git) with a distinction (81%). This immersive program equipped me with hands-on experience in various tools and languages, including Excel, Python, R, SQL, and Tableau. Armed with this proficiency, I am poised to apply my multidisciplinary background, analytical mindset, and technical skills to contribute meaningfully to data-driven projects.
+I recently completed the London School of Economics and Political Science (LSE) __[Data Analytics Career Accelerator](https://github.com/Mattia-Bieler/LSE_Data_Analytics_Career_Accelerator.git)__ with a distinction (81%). This immersive program equipped me with hands-on experience in various tools and languages, including Excel, Python, R, SQL, and Tableau. Armed with this proficiency, I am poised to apply my multidisciplinary background, analytical mindset, and technical skills to contribute meaningfully to data-driven projects.
 
 This fusion of hospitality, social science, and data analytics positions me as a versatile professional, ready to tackle challenges and uncover insights in the evolving landscape of data-driven decision-making.
