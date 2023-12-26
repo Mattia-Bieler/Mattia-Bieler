@@ -1,5 +1,5 @@
 ![Piemonte](https://github.com/Mattia-Bieler/Mattia-Bieler/assets/132078605/c53805b6-c3b2-4748-8dca-fb8d8cb35fad)
-# Portfolio (LinkedIn: www.linkedin.com/in/mattia-bieler)
+# Portfolio
 ### Business Analytics | Data Analytics | Data Visualisation
 __Excel | Python | R | SQL | Tableau__
 
