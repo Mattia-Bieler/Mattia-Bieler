@@ -3,7 +3,7 @@
 ## Business Analytics | Data Analytics | Data Visualisation 
 ### Excel | Python | R | SQL | Tableau
 
-__BA (Hons) International Relations and History (2:1, mark: 68) | LSE Data Analytics Career Accelerator (distinction, 81%)__
+__BA (Hons) International Relations and History (2:1, Mark: 68) | LSE Data Analytics Career Accelerator (Distinction, 81%)__
 
 __I proficiently manage intricate datasets and interpret insights within societal contexts. This skill enables me to deliver actionable, data-driven recommendations that consider broader business implications.__
 
