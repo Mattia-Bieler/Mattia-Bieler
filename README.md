@@ -4,6 +4,8 @@ __Business Analytics | Data Analytics | Data Visualisation__
 
 __Excel | Python | R | SQL | Tableau__
 
+__BA (Hons) International Relations and History (2:1, mark: 68) | LSE Data Analytics Career Accelerator (distinction, 81%)__
+
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
 ## Technical Skills
