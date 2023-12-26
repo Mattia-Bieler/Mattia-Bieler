@@ -6,7 +6,7 @@ __Excel | Python | R | SQL | Tableau__
 
 __BA (Hons) International Relations and History (2:1, mark: 68) | LSE Data Analytics Career Accelerator (distinction, 81%)__
 
-__I am not only able to work with complex datasets, but also understand how the insights relate to their societal environments. This ability allows me to provide actionable, data-driven recommendations that consider the broader context and implications for the business.__ 
+__I proficiently manage intricate datasets and interpret insights within societal contexts. This skill enables me to deliver actionable, data-driven recommendations that consider broader business implications.__
 
 __LinkedIn:__ www.linkedin.com/in/mattia-bieler
 
