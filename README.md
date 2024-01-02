@@ -10,11 +10,11 @@ __I proficiently manage complex datasets and interpret insights within societal 
 __LinkedIn: www.linkedin.com/in/mattia-bieler__
 
 ## Technical Skills
-__1) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git)__ <br>
-__2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)__ <br>
-__3) [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)__ <br>
-__4) [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)__ <br>
-__5) [Feedback Acknowledgement](https://github.com/Mattia-Bieler/Feedback_Acknowledgement.git)__ <br>
+__1)[Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git)__ <br>
+__2)[Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)__ <br>
+__3)[Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git)__ <br>
+__4)[Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git)__ <br>
+__5)[Feedback Acknowledgement](https://github.com/Mattia-Bieler/Feedback_Acknowledgement.git)__ <br>
    
 ## Autobiography
 ### A Tapestry of Cultures: A Journey Through Life
