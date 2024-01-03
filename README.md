@@ -9,6 +9,8 @@ __I proficiently manage complex datasets and interpret insights within societal 
 
 __LinkedIn: www.linkedin.com/in/mattia-bieler__
 
+__Email: mattia.bieler@gmail.com__
+
 ## Technical Skills
 __1) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git)__ <br>
 __2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git)__ <br>
