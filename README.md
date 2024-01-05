@@ -7,7 +7,9 @@ __BA (Hons) International Relations and History ([2:1, Mark: 68](https://documen
 
 __I proficiently manage complex datasets and interpret insights within societal contexts, enabling me to deliver actionable, data-driven recommendations that consider broader business implications.__
 
-__LinkedIn: www.linkedin.com/in/mattia-bieler | Email: mattia.bieler@gmail.com__
+__LinkedIn: www.linkedin.com/in/mattia-bieler__
+
+__Email: mattia.bieler@gmail.com__
 
 ## Technical Skills
 __1) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git)__ <br>
