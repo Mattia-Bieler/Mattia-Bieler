@@ -12,10 +12,10 @@ __LinkedIn: www.linkedin.com/in/mattia-bieler__
 __Email: mattia.bieler@gmail.com__
 
 ## Technical Skills
-__1) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git) - (Excel | SQL | Tableau)__ <br>
-__2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git) - (Python)__ <br>
-__3) [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git) - (Python | R)__ <br>
-__4) [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git) - (Excel | Python | Tableau)__ <br>
+__1) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project.git) - Excel | SQL | Tableau__ <br>
+__2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git) - Python__ <br>
+__3) [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git) - Python | R__ <br>
+__4) [Bank Speeches Impact Project](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project.git) - Excel | Python | Tableau__ <br>
 __5) [Reflection for Future Projects](https://github.com/Mattia-Bieler/Reflection.git)__ <br>
    
 ## Autobiography
