@@ -1,7 +1,7 @@
 ![Piemonte](https://github.com/Mattia-Bieler/Mattia-Bieler/assets/132078605/c53805b6-c3b2-4748-8dca-fb8d8cb35fad)
 # Portfolio
 ### Business Analytics | Data Analytics | Data Visualisation
-__Excel | Python | R | SQL | Tableau__
+__Excel | Google Sheets | SQL | Python | R | Looker Studio | Power BI | Tableau__
 
 __BA (Hons) International Relations and History ([2:1, Mark: 68](https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%221QSqlksthQrKyslZptTOGNUSkK17ADuxO%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108790922688032162431%22%2C%22resourceKeys%22%3A%7B%7D%7D)) | LSE Data Analytics Career Accelerator ([Distinction, 81%](https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%221jrqyfANHlt8-jd1ptx2DhDk5uq79oqY4%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108790922688032162431%22%2C%22resourceKeys%22%3A%7B%7D%7D))__
 
