@@ -10,12 +10,10 @@ __LinkedIn: www.linkedin.com/in/mattia-bieler__
 
 __Email: mattia.bieler@gmail.com__
 
-## Technical Skills
+## Projects
 __1) [Football Players Project](https://github.com/Mattia-Bieler/Football_Players_Project.git) - SQL | Python | Power BI__ <br>
-__2) [Game Company Sales Performance Project](https://github.com/Mattia-Bieler/Game_Company_Sales_Performance_Project.git) - Python | R__ <br>
-__3) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git) - Python__ <br>
-__4) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project) - SQL | Tableau__ <br> 
-__5) [Reflection for Future Projects](https://github.com/Mattia-Bieler/Reflection.git)__ <br>
+__2) [Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git) - Python__ <br>
+__3) [Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project) - SQL | Tableau__ <br> 
    
 ## Autobiography
 ### From Hospitality and Social Science to Data Analytics: A Journey of Skills and Insights
