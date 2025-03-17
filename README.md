@@ -10,7 +10,7 @@ __LinkedIn: www.linkedin.com/in/mattia-bieler__
 __Email: mattia.bieler@gmail.com__
 
 ## Projects
-__[Football Players Project](https://github.com/Mattia-Bieler/Football_Players_Project.git) - SQL | Python | Power BI__ <br>
+__[Football Transfer Window Project](https://github.com/Mattia-Bieler/Football_Transfer_Window_Project) - SQL | Python | Power BI__ <br>
 __[Healthcare Appointments Project](https://github.com/Mattia-Bieler/Healthcare_Appointments_Project.git) - Python__ <br>
 __[Supermarket Customer Information Project](https://github.com/Mattia-Bieler/Supermarket_Customer_Information_Project) - SQL | Tableau__ <br> 
    
